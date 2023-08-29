@@ -130,8 +130,8 @@ const MyProjectContent = () => {
                                             responsive web design it has a five(5) personal project including 
                                             my portfolio.`}
                             projectTech={`ReactJs, CSS, Bootstrap, Responsive Design`}
-                            projectLiveDemo={`https://pabyala.github.io/MarF.shoe-shop/`}
-                            projectCode={`https://github.com/Pabyala/MarF.shoe-shop`}
+                            projectLiveDemo={`https://pabyala.github.io/MarF-portfolio/`}
+                            projectCode={`https://github.com/Pabyala/MarF-portfolio`}
                         />
                     </ProjectAnimation>
                 )}
