@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MarF-portfolio/static/css/main.de474c2d.css",
+    "main.js": "/MarF-portfolio/static/js/main.0b03d0f9.js",
+    "static/media/20230120_134042 (1).jpg": "/MarF-portfolio/static/media/20230120_134042 (1).41abfc32e033028a400a.jpg",
+    "static/media/One Piece.png": "/MarF-portfolio/static/media/One Piece.d1378e086718336b1920.png",
+    "static/media/152228904___n.jpg": "/MarF-portfolio/static/media/152228904_3639387579513474_2193700901534596907_n.8f3b22b3169fc81098f9.jpg",
+    "static/media/portfolio-img.png": "/MarF-portfolio/static/media/portfolio-img.3b91279ac290c05355e3.png",
+    "static/media/Min-Shoe-Store.png": "/MarF-portfolio/static/media/Min-Shoe-Store.fa2d052dbcad497bc009.png",
+    "static/media/ID's Generator.png": "/MarF-portfolio/static/media/ID's Generator.b1f21752b5d9eef7caa8.png",
+    "static/media/GShortcut.png": "/MarF-portfolio/static/media/GShortcut.a9c75267adb127d86af0.png",
+    "static/media/Hands - Phone.png": "/MarF-portfolio/static/media/Hands - Phone.be82fe189e7e2869c733.png",
+    "static/media/web-design.png": "/MarF-portfolio/static/media/web-design.e7fdce95b28dd26190f2.png",
+    "static/media/responsive.png": "/MarF-portfolio/static/media/responsive.410602c80fd10b393d1b.png",
+    "index.html": "/MarF-portfolio/index.html",
+    "main.de474c2d.css.map": "/MarF-portfolio/static/css/main.de474c2d.css.map",
+    "main.0b03d0f9.js.map": "/MarF-portfolio/static/js/main.0b03d0f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de474c2d.css",
+    "static/js/main.0b03d0f9.js"
+  ]
+}
