@@ -129,7 +129,7 @@ const MyProjectContent = () => {
                             projectDescrip={`In this portfolio, you will find a collection of my personal 
                                             projects that demonstrate my abilities in creating websites and 
                                             responsive web design it has a five(5) personal project including 
-                                            my portfolio.`}
+                                            my portfolio`}
                             projectTech={`ReactJs, CSS, Bootstrap, Responsive Design`}
                             projectLiveDemo={`https://pabyala.github.io/MarF-portfolio/`}
                             projectCode={`https://github.com/Pabyala/MarF-portfolio`}
