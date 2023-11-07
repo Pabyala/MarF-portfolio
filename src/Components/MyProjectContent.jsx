@@ -5,6 +5,7 @@ import IDGenerator from "../Asset/ID's Generator.png"
 import GShortcut from "../Asset/GShortcut.png"
 import PortfolioImg from '../Asset/portfolio-img.png'
 import MarFShoeStore from "../Asset/Min-Shoe-Store.png"
+import WeatherApp from "../Asset/Weather-app.jpg"
 import { ProjectSkeleton } from '../Skeleton/SkeletonProject';
 import { ProjectAnimation } from './AnimateComponent'
 import { MyProjects } from './MyProjects';
@@ -135,6 +136,29 @@ const MyProjectContent = () => {
                         />
                     </ProjectAnimation>
                 )}
+
+                {loading ? (<ProjectSkeleton/>)
+                : (
+                    <ProjectAnimation
+                        customStyle='col-4 mt-4'
+                        customTransition={{ 
+                            ease: 'easeInOut', 
+                            duration: 2, 
+                            delay: 0.5
+                        }}
+                    >
+                        <MyProjects 
+                            projectImg={WeatherApp}
+                            projectTitle={`Weather Forecast`}
+                            projectDescrip={`It's a website that shows the current weather forecast and a 
+                                            five-day forecast. You can also search for the country or city 
+                                            that you want to see the weather for.`}
+                            projectTech={`ReactJs, CSS, Bootstrap, Responsive Design`}
+                            projectLiveDemo={`https://pabyala.github.io/weatherforecast-app/`}
+                            projectCode={`https://github.com/Pabyala/weatherforecast-app`}
+                        />
+                    </ProjectAnimation>
+                )}   
             </div>
   )
 }
