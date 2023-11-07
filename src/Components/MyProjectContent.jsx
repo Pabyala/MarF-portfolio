@@ -128,7 +128,7 @@ const MyProjectContent = () => {
                             projectTitle={`Personal Portfolio`}
                             projectDescrip={`In this portfolio, you will find a collection of my personal 
                                             projects that demonstrate my abilities in creating websites and 
-                                            responsive web design it has a five(5) personal project including 
+                                            responsive web design it has a five(6) personal project including 
                                             my portfolio`}
                             projectTech={`ReactJs, CSS, Bootstrap, Responsive Design`}
                             projectLiveDemo={`https://pabyala.github.io/MarF-portfolio/`}
@@ -152,7 +152,7 @@ const MyProjectContent = () => {
                             projectTitle={`Weather Forecast`}
                             projectDescrip={`It's a website that shows the current weather forecast and a 
                                             five-day forecast. You can also search for the country or city 
-                                            that you want to see the weather for.`}
+                                            that you want to see the weather for`}
                             projectTech={`ReactJs, CSS, Bootstrap, Responsive Design`}
                             projectLiveDemo={`https://pabyala.github.io/weatherforecast-app/`}
                             projectCode={`https://github.com/Pabyala/weatherforecast-app`}
