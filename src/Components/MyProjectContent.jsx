@@ -137,7 +137,7 @@ const MyProjectContent = () => {
                     </ProjectAnimation>
                 )}
 
-                {loading ? (<ProjectSkeleton/>)
+                {/* {loading ? (<ProjectSkeleton/>)
                 : (
                     <ProjectAnimation
                         customStyle='col-4 mt-4'
@@ -158,7 +158,7 @@ const MyProjectContent = () => {
                             projectCode={`https://github.com/Pabyala/weatherforecast-app`}
                         />
                     </ProjectAnimation>
-                )}   
+                )}    */}
             </div>
   )
 }
