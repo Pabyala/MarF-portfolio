@@ -15,7 +15,6 @@ export const MyProjects = ({projectImg, projectTitle, projectDescrip, projectTec
 
     
     return (
-    // <div className='h-100'>
         <div ref={ref} className="col-body p-3 h-100 d-flex flex-column justify-content-between"
         >
             
@@ -45,6 +44,5 @@ export const MyProjects = ({projectImg, projectTitle, projectDescrip, projectTec
                 </div>
             
         </div>
-    // </div>
   )
 }
